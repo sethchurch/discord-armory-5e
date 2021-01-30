@@ -1,0 +1,363 @@
+{
+  "funds": {
+    "platinum": {
+      "_id": "5dcb2b9740b2ac05a458f0c8",
+      "token": "platinum",
+      "name": "Platinum",
+      "amount": 26,
+      "desc": ""
+    },
+    "gold": {
+      "_id": "5dcb2b9740b2ac05a458f0c9",
+      "token": "gold",
+      "name": "Gold",
+      "amount": 1585,
+      "desc": ""
+    },
+    "silver": {
+      "_id": "5dcb2b9740b2ac05a458f0ca",
+      "token": "silver",
+      "name": "Silver",
+      "amount": 5,
+      "desc": ""
+    },
+    "copper": {
+      "_id": "5dcb2b9740b2ac05a458f0cb",
+      "token": "copper",
+      "name": "Copper",
+      "amount": 1000,
+      "desc": ""
+    }
+  },
+  "weapons": {
+    "dagger": {
+      "_id": "5dcb2b9740b2ac05a458f0cc",
+      "token": "dagger",
+      "name": "Dagger",
+      "amount": 8,
+      "desc": ""
+    },
+    "greataxe": {
+      "_id": "5dcb2b9740b2ac05a458f0cd",
+      "token": "greataxe",
+      "name": "Greataxe",
+      "amount": 1,
+      "desc": ""
+    },
+    "net": {
+      "_id": "5dcb2b9740b2ac05a458f0ce",
+      "token": "net",
+      "name": "Net",
+      "amount": 5,
+      "desc": ""
+    },
+    "longsword": {
+      "_id": "5dcb2b9740b2ac05a458f0cf",
+      "token": "longsword",
+      "name": "Longsword",
+      "amount": 2,
+      "desc": ""
+    },
+    "rapier": {
+      "_id": "5dcb2b9740b2ac05a458f0d0",
+      "token": "rapier",
+      "name": "Rapier",
+      "amount": 1,
+      "desc": ""
+    },
+    "scimitar": {
+      "_id": "5dcb2b9740b2ac05a458f0d1",
+      "token": "scimitar",
+      "name": "Scimitar",
+      "amount": 3,
+      "desc": ""
+    },
+    "silverlongsword": {
+      "_id": "5dcb2b9740b2ac05a458f0d2",
+      "token": "silverlongsword",
+      "name": "Silver Longsword",
+      "amount": 1,
+      "desc": ""
+    },
+    "shortsword": {
+      "_id": "5dcb2b9740b2ac05a458f0d3",
+      "token": "shortsword",
+      "name": "Shortsword",
+      "amount": 7,
+      "desc": ""
+    },
+    "warhammer": {
+      "_id": "5dcb2b9740b2ac05a458f0d4",
+      "token": "warhammer",
+      "name": "Warhammer",
+      "amount": 5,
+      "desc": ""
+    },
+    "boomerang1": {
+      "_id": "5dcb2b9740b2ac05a458f0d5",
+      "token": "boomerang1",
+      "name": "Boomerang +1",
+      "amount": 1,
+      "desc": "+1 to Attack/Damage Rolls"
+    },
+    "heavycrossbow": {
+      "_id": "5dcb2b9740b2ac05a458f0d6",
+      "token": "heavycrossbow",
+      "name": "Heavy Crossbow",
+      "amount": 2,
+      "desc": ""
+    },
+    "lightcrossbow": {
+      "_id": "5dcb2b9740b2ac05a458f0d7",
+      "token": "lightcrossbow",
+      "name": "Light Crossbow",
+      "amount": 7,
+      "desc": ""
+    },
+    "longbow": {
+      "_id": "5dcb2b9740b2ac05a458f0d8",
+      "token": "longbow",
+      "name": "Longbow",
+      "amount": 1,
+      "desc": ""
+    },
+    "shortbow": {
+      "_id": "5dcb2b9740b2ac05a458f0d9",
+      "token": "shortbow",
+      "name": "Shortbow",
+      "amount": 5,
+      "desc": ""
+    },
+    "arrows": {
+      "_id": "5dcb2b9740b2ac05a458f0da",
+      "token": "arrows",
+      "name": "Arrows",
+      "amount": 240,
+      "desc": ""
+    },
+    "crossbowbolts": {
+      "_id": "5dcb2b9740b2ac05a458f0db",
+      "token": "crossbowbolts",
+      "name": "Crossbow Bolts",
+      "amount": 150,
+      "desc": ""
+    },
+    "darts": {
+      "_id": "5dcb2b9740b2ac05a458f0dc",
+      "token": "darts",
+      "name": "Darts",
+      "amount": 8,
+      "desc": ""
+    }
+  },
+  "armor": {
+    "chainmail": {
+      "_id": "5dcb2b9740b2ac05a458f0dd",
+      "token": "chainmail",
+      "name": "Chain Mail",
+      "amount": 1,
+      "desc": ""
+    },
+    "halfplate": {
+      "_id": "5dcb2b9740b2ac05a458f0de",
+      "token": "halfplate",
+      "name": "Half-Plate",
+      "amount": 1,
+      "desc": ""
+    },
+    "leather": {
+      "_id": "5dcb2b9740b2ac05a458f0df",
+      "token": "leather",
+      "name": "Leather",
+      "amount": 2,
+      "desc": ""
+    },
+    "plate": {
+      "_id": "5dcb2b9740b2ac05a458f0e0",
+      "token": "plate",
+      "name": "Plate",
+      "amount": 1,
+      "desc": ""
+    },
+    "scalemail": {
+      "_id": "5dcb2b9740b2ac05a458f0e1",
+      "token": "scalemail",
+      "name": "Scale Mail",
+      "amount": 1,
+      "desc": ""
+    },
+    "shield": {
+      "_id": "5dcb2b9740b2ac05a458f0e2",
+      "token": "shield",
+      "name": "Shield",
+      "amount": 3,
+      "desc": ""
+    },
+    "splint": {
+      "_id": "5dcb2b9740b2ac05a458f0e3",
+      "token": "splint",
+      "name": "Splint",
+      "amount": 1,
+      "desc": ""
+    }
+  },
+  "other": {
+    "antitoxin": {
+      "_id": "5dcb2b9740b2ac05a458f0e4",
+      "token": "antitoxin",
+      "name": "Antitoxin",
+      "amount": 3,
+      "desc": ""
+    },
+    "berryofnourishment": {
+      "_id": "5dcb2b9740b2ac05a458f0e5",
+      "token": "berryofnourishment",
+      "name": "Berry of Nourishment",
+      "amount": 5,
+      "desc": "1 Berry Equals 1 Day of Rations)"
+    },
+    "flaskofoil": {
+      "_id": "5dcb2b9740b2ac05a458f0e6",
+      "token": "flaskofoil",
+      "name": "Flask of Oil",
+      "amount": 8,
+      "desc": ""
+    },
+    "healerskit": {
+      "_id": "5dcb2b9740b2ac05a458f0e7",
+      "token": "healerskit",
+      "name": "Healer’s Kit",
+      "amount": 1,
+      "desc": ""
+    },
+    "potionofhealing": {
+      "_id": "5dcb2b9740b2ac05a458f0e8",
+      "token": "potionofhealing",
+      "name": "Potion of Healing",
+      "amount": 2,
+      "desc": ""
+    },
+    "rations": {
+      "_id": "5dcb2b9740b2ac05a458f0e9",
+      "token": "rations",
+      "name": "Rations",
+      "amount": 20,
+      "desc": ""
+    },
+    "torches": {
+      "_id": "5dcb2b9740b2ac05a458f0ea",
+      "token": "torches",
+      "name": "Torches",
+      "amount": 10,
+      "desc": ""
+    },
+    "backpack": {
+      "_id": "5dcb2b9740b2ac05a458f0eb",
+      "token": "backpack",
+      "name": "Backpack",
+      "amount": 6,
+      "desc": ""
+    },
+    "bedroll": {
+      "_id": "5dcb2b9740b2ac05a458f0ec",
+      "token": "bedroll",
+      "name": "Bedroll",
+      "amount": 2,
+      "desc": ""
+    },
+    "climberskit": {
+      "_id": "5dcb2b9740b2ac05a458f0ed",
+      "token": "climberskit",
+      "name": "Climber’s Kit",
+      "amount": 3,
+      "desc": ""
+    },
+    "crowbar": {
+      "_id": "5dcb2b9740b2ac05a458f0ee",
+      "token": "crowbar",
+      "name": "Crowbar",
+      "amount": 1,
+      "desc": ""
+    },
+    "hammer": {
+      "_id": "5dcb2b9740b2ac05a458f0ef",
+      "token": "hammer",
+      "name": "Hammer",
+      "amount": 1,
+      "desc": ""
+    },
+    "hoodedlantern": {
+      "_id": "5dcb2b9740b2ac05a458f0f0",
+      "token": "hoodedlantern",
+      "name": "Hooded Lantern",
+      "amount": 2,
+      "desc": ""
+    },
+    "huntingtrap": {
+      "_id": "5dcb2b9740b2ac05a458f0f1",
+      "token": "huntingtrap",
+      "name": "Hunting Trap",
+      "amount": 3,
+      "desc": ""
+    },
+    "shovel": {
+      "_id": "5dcb2b9740b2ac05a458f0f2",
+      "token": "shovel",
+      "name": "Shovel",
+      "amount": 2,
+      "desc": ""
+    },
+    "tent": {
+      "_id": "5dcb2b9740b2ac05a458f0f3",
+      "token": "tent",
+      "name": "Tent",
+      "amount": 2,
+      "desc": ""
+    },
+    "commonclothes": {
+      "_id": "5dcb2b9740b2ac05a458f0f4",
+      "token": "commonclothes",
+      "name": "Common Clothes",
+      "amount": 3,
+      "desc": ""
+    },
+    "commondress": {
+      "_id": "5dcb2b9740b2ac05a458f0f5",
+      "token": "commondress",
+      "name": "Common Dress",
+      "amount": 7,
+      "desc": ""
+    },
+    "flyspellscroll": {
+      "_id": "5dcb2b9740b2ac05a458f0f6",
+      "token": "flyspellscroll",
+      "name": "Fly Spell Scroll",
+      "amount": 1,
+      "desc": ""
+    },
+    "giantkegofmoonshine": {
+      "_id": "5dcb2b9740b2ac05a458f0f7",
+      "token": "giantkegofmoonshine",
+      "name": "Giant Keg of Moonshine",
+      "amount": 1,
+      "desc": ""
+    },
+    "keystogallowsburgbarracks": {
+      "_id": "5dcb2b9740b2ac05a458f0f8",
+      "token": "keystogallowsburgbarracks",
+      "name": "Keys to Gallowsburg Barracks",
+      "amount": 1,
+      "desc": ""
+    },
+    "car": {
+      "name": "car",
+      "amount": 1,
+      "desc": ""
+    },
+    "bab": {
+      "name": "bab",
+      "amount": 3,
+      "desc": ""
+    }
+  }
+}
