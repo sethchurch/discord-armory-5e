@@ -21,7 +21,7 @@ module.exports = {
   name: "myCommand",
   
   // String, Description of command usually how its used and what it does
-  description: "This command is very important and makes the world better syntax {prefix}myCommand",
+  description: "This command is very important and makes the world better! Syntax {prefix}myCommand",
   
   // Boolean, If the command will show up in help or not
   show: true,
