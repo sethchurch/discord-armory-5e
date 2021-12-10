@@ -2,6 +2,15 @@
 
 *A Discord bot for managing a DnD 5e armory*
 
+# Images of Application
+![App Picture 01](https://i.imgur.com/KKoerhb.png)
+
+![App Picture 02](https://i.imgur.com/1qXgFk5.png)
+
+
+# Setup Docs
+
+
 To get started and learn the available commands use:
 
 ```
